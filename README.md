@@ -12,6 +12,16 @@
 
 ---
 
+## 🎯 What You Can Do in the App
+
+- Filter leads based on ML score and campaign criteria  
+- Identify high-conversion customer segments  
+- Analyze campaign performance trends  
+- Export prioritized lead lists for targeting  
+- Simulate lead quality using predictive inputs
+
+---
+
 ## 📌 Overview
 
 This project is an **AI-powered lead scoring and campaign optimization platform** designed to identify high-conversion prospects and improve marketing efficiency.
@@ -38,6 +48,12 @@ Using a dataset of **41,188 telemarketing records**, the platform demonstrates h
 | Lead Reduction | — | **96.67%** |
 
 💡 **Key Insight:** A small subset of high-quality leads drives the majority of conversions, enabling more efficient allocation of marketing resources.
+
+---
+
+## 🧩 System Architecture
+
+Pipeline → Database → Machine Learning → Dashboard → User Interaction
 
 ---
 
@@ -106,6 +122,17 @@ This system demonstrates how data-driven lead prioritization can transform marke
 ---
 
 📊 Demonstrates a clear trade-off: reducing lead volume by ~96% while significantly increasing conversion rates.
+
+---
+
+## 🏢 Use Case
+
+This system can be used by marketing teams to:
+
+- Optimize telemarketing campaigns  
+- Prioritize high-value leads  
+- Reduce operational costs  
+- Improve conversion rates through data-driven targeting  
 
 ---
 

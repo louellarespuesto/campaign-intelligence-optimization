@@ -115,7 +115,3 @@ This system demonstrates:
 pip install -r requirements.txt
 python src/pipeline.py
 streamlit run src/dashboard.py
-
-```
-
-```

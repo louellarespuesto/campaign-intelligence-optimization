@@ -1,5 +1,4 @@
 
-```markdown
 # AI Lead Scoring & Campaign Optimization Platform
 
 🔗 **Live Demo:** https://campaign-intelligence-optimization-brfvsfaqf8tqm88yizfudx.streamlit.app/

@@ -1,7 +1,7 @@
 
 # AI Lead Scoring & Campaign Optimization Platform
 
-🔗 **Live Demo:** https://campaign-intelligence-optimization-brfvsfaqf8tqm88yizfudx.streamlit.app/
+🔗 **Live Demo:** https://campaign-intelligence-optimization-brfvsfaqf8tqm88yizfudx.streamlit.app/                 
 📊 AI-powered lead scoring & campaign optimization platform
 
 ---
